@@ -1,5 +1,7 @@
 # 了解 Zerocoin 在 Zcoin 中是如何工作的以及与其他方案的比较 第一部分
 
+原文：https://zcoin.io/understanding-how-zerocoin-in-zcoin-works-and-how-it-compares-to-other-anonymity-solutions-part-1/
+
 专注个人隐私的加密货币已经有很多了，那么 Zerocoin 跟它们有什么重要的不同之处呢？同时让不少人感到困惑的有使用 Zerocash 协议的 Zcash，而让一个外行人看出它们之间的不同，不是一件容易的事情（尤其名称都以 Zero 开头）。
 
 此外我们还将介绍，其他加密货币所采用的不同加密手段，因为我们坚信整个匿名货币生态系统的繁荣，需要每一种加密货币的稳定发展作为保证。
