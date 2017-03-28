@@ -1,4 +1,4 @@
-# 了解 Zerocoin 在 Zcoin 中是如何工作的以及与其他方案的比较 第一部分
+# 了解 Zerocoin 在 Zcoin 中是如何工作的以及与其他匿名方案的比较 第一部分
 
 原文：https://zcoin.io/understanding-how-zerocoin-in-zcoin-works-and-how-it-compares-to-other-anonymity-solutions-part-1/
 
