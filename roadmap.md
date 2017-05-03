@@ -8,7 +8,7 @@ We believe MTP is a way to prevent botnets from mining while allowing normal leg
 
 我们认为 MTP 是阻止僵尸网络挖矿的一种方法，同时允许正常的合法 CPU 执行工作证明。它允许使用高内存要求的工作证明，同时保持非常轻量快速的节点和矿工验证。我们正在成为实施 MTP 的第一个加密货币。
 
-### Znodes：为处理 Zerocoin 的激励节点群
+### Znodes：为处理 Zerocoin 的激励节点层
 
 Zerocoin anonymous transactions are computationally intensive and hosting high performance nodes cost money. In order to scale Zerocoin transactions and maintain a healthy node network, it is important to have an incentivized node layer to process Zerocoin transactions and provides a secondary layer to build on services (such as a distributed marketplace).
 
@@ -64,7 +64,7 @@ Explore porting over Parity Bitcoin alternate wallet implementation for Zcoin
 
 为零币探索移植同等的 Bitcoin 备选钱包实现。
 
-#### 节点之前的加密通信
+#### 节点之间的加密通信
 
 Currently, communications between nodes in most cryptocurrencies are sent in the clear. Encrypted communication will make it harder to analyze transactions on the Zcoin network.
 
@@ -98,4 +98,4 @@ Implement Zerocoin spending verifications on smart contracts with the goal of cr
 
 The roadmap information above is being shared in order to outline some of our current plans and best estimates for Zcoin, but like everything else in life, things can change even the best laid plans. We are hopeful that the following can shed some light on our roadmap, but it is important to understand that it is being shared for INFORMATIONAL PURPOSES ONLY, and not as a binding commitment. Please do not rely on this information in making purchasing decisions because ultimately, the development, release, and timing of any features or functionality remains at the sole discretion of the Zcoin team, and is subject to change.
 
-上述路线图信息处于分享中，以概述我们目前的计划和零币的最佳预期，但像生活中的其他一切事情，事情可以改变，即使是最好的计划。我们希望大家能够大致了解我们的路线图，但重要的是要明白，它只是为了分享信息，而不是承诺。请不要依赖这些信息做出购买决定，因为最终，开发、发布和任何功能的实现，仍然由零币团队自行决定，并且可能会改变。
+上述路线图信息处于分享中，以概述我们目前的计划和零币的最佳预期，但像生活中的其他一切事情，事情可以改变，即使是最好的计划。希望大家能够大致了解我们的路线图，但重要的是要明白，它只是为了分享信息，而不是承诺。请不要依赖这些信息做出购买决定，因为最终，开发、发布和任何功能的实现，仍然由零币团队自行决定，并且可能会改变。
