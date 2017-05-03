@@ -64,9 +64,9 @@ Implement Zerocoin spending verifications on smart contracts with the goal of cr
 
 ### Blind auction system
 
-### Zcoin 实验室
+### 零币实验室
 
-### Zcoin 基金会
+### 零币基金会
 
 #### 免责声明：
 
