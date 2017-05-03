@@ -1,12 +1,12 @@
-# Roadmap
+# 路线图
 
 ## 2017
 
-### MTP (梅克尔树工作证明)
+### MTP（梅克尔树工作证明）
 
 We believe MTP is a way to prevent botnets from mining while allowing normal legitimate CPUs to perform proof of work. It allows a memory hard proof of work to be used while remaining very lightweight and quick for nodes and miners to verify. We are on track to be the first cryptocurrency to implement MTP.
 
-### Znodes: 为处理 Zerocoin 的激励节点群
+### Znodes：为处理 Zerocoin 的激励节点群
 
 Zerocoin anonymous transactions are computationally intensive and hosting high performance nodes cost money. In order to scale Zerocoin transactions and maintain a healthy node network, it is important to have an incentivized node layer to process Zerocoin transactions and provides a secondary layer to build on services (such as a distributed marketplace).
 
@@ -22,7 +22,7 @@ We will upgrade Bitcoin Core to 0.13 first to enjoy the many improvements that t
 
 Zerocoin-spends currently can only be sent to an address you own. We can allow Zerocoin-spends directly to third party addresses.
 
-#### 集成 Tor/I2P integration 为更强的匿名性
+#### 集成 Tor/I2P 为更强的匿名性
 
 TOR/I2P integration will hide your wallet or nodes true IP further protecting your identity when doing transactions.
 
