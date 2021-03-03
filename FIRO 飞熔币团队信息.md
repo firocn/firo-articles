@@ -53,3 +53,17 @@ Levon 是一名软件工程师，拥有亚美尼亚美国大学计算机科学�
 <img src="https://img.chainnews.com/material/images/e63cfa988ccb51629bb95ac765c3546b_MnN3zmQ.png" width="200">
 
 Aram 是一个密码学家。他是 Skycryptor 的创始 CEO，Skycryptor 是一家率先开发代理重新加密算法的科技之星公司。Skycryptor 的第一款产品 BeSafe IO 已被部署在十几家中小企业和企业中，能够在云端和其他地方保护、控制和跟踪敏感的商业文件。在创立 Skycryptor 之前，Aram 在亚美尼亚美国大学担任高级密码学研究员和开发团队负责人，该科学小组为财富 1000 强企业合作伙伴进行密码学研究。Aram 的主要研究兴趣包括白盒密码学、可搜索的加密方法、无记名传输协议和加密电子投票系统。
+
+## Sproxet
+
+**开发者**
+
+Sproxet是一位匿名开发者，在过去的15年里一直致力于隐私保护软件的开发，并为Firo的Electron客户端做出了重要贡献。Sproxet还是Signal Eleven的创始人，Signal Eleven是一家IT咨询公司，专注于计算机安全和审计、软件开发和加密系统架构设计。
+
+## Anwar P.
+
+**高级支持**
+
+<img src="https://img.chainnews.com/material/images/e63cfa988ccb51629bb95ac765c3546b_UbJPQJc.png" width="200">
+
+Anwar主修电气和电子工程，在一家IT公司有多年的技术支持经验。他负责处理支持查询、文档、开发人员支持，并协助项目主管处理日常事务。
