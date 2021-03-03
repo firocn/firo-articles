@@ -58,6 +58,8 @@ Aram 是一个密码学家。他是 Skycryptor 的创始 CEO，Skycryptor 是一
 
 **开发者**
 
+<img src="https://img.chainnews.com/material/images/e63cfa988ccb51629bb95ac765c3546b_6vS1PEF.png" width="200">
+
 Sproxet是一位匿名开发者，在过去的15年里一直致力于隐私保护软件的开发，并为Firo的Electron客户端做出了重要贡献。Sproxet还是Signal Eleven的创始人，Signal Eleven是一家IT咨询公司，专注于计算机安全和审计、软件开发和加密系统架构设计。
 
 ## Anwar P.
