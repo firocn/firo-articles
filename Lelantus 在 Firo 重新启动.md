@@ -1,6 +1,6 @@
 # Lelantus 在 Firo 重新启动
 
-在硬分叉完成后，Lelantus 在 Firo 上重新激活了额外的强化措施
+*在硬分叉完成后，Lelantus 在 Firo 上重新激活了额外的强化措施。*
 
 [lelantus-reactivation](https://firo.org/blog/assets/lelantus-reactivated-on-firo/lelantus-reactivation.png)
 
