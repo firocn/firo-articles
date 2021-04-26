@@ -2,7 +2,7 @@
 
 *在硬分叉完成后，Lelantus 在 Firo 上重新激活了额外的强化措施。*
 
-[lelantus-reactivation](https://firo.org/blog/assets/lelantus-reactivated-on-firo/lelantus-reactivation.png)
+![lelantus-reactivation](https://firo.org/blog/assets/lelantus-reactivated-on-firo/lelantus-reactivation.png)
 
 随着 Firo v14.6.0 的发布和硬分叉的完成，Lelantus 隐私交易现在已经重新启用。
 
