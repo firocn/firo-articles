@@ -1,4 +1,4 @@
-# Lelantus 在 Firo 重新启动
+# Lelantus 在 Firo 重新激活
 
 *硬分叉完成后，Lelantus 在 Firo 重新激活，并采取了额外的加固措施*
 
