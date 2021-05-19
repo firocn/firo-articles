@@ -104,4 +104,4 @@ RAP 地址的编写代码也已经完成，应该很快上线。RAP 地址允许
 
 我们也一直在努力使 Firo 更加可用，并且正在研究如何实现不依赖中心化基础设施的保护隐私的轻钱包。在这里查看我们的研究更新。
 
-[https://firo.org/zh-cn/2021/05/17/firo-research-update-may-2021.html](https://firo.org/zh-cn/2021/05/17/firo-research-update-may-2021.html)
+[https://www.chainnews.com/articles/173518431808.htm](https://www.chainnews.com/articles/173518431808.htm)
