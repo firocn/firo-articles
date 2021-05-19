@@ -86,7 +86,7 @@ Myconstant 允许你使用 Firo 作为抵押品进行贷款。
 
 我们最近与 Guardarian 合作，允许人们使用信用卡、欧洲 Sepa 转账和 unionpay 购买 FIRO。
 
-我们也一直在与 REN 项目合作，作为整合联盟成员，研究获得 renFIRO，Thorchain （一个跨链流动性池去中心化交易所）和 AtomicDEX （一个基于原子交换的去中心化交易所，目前正在运作）。
+我们也一直在与 REN 项目合作，作为整合联盟成员，研究获得 renFIRO，Thorchain （一个跨链流动性池去中心化交易所）和 AtomicDEX （一个基于原子交换的去中心化交易所，目前正在运行）。
 
 Stakehound 也是我们的合作伙伴，它允许用户在以太坊上持有 stFIRO，这是由处在主节点中的 Firo 支持的，所以你可以在参与 DeFi 的同时继续获得主节点奖励。甚至还有一个 Sushi Onsen 池，你可以通过向 stFIRO 提供流动性来获得 Sushi 奖励。我们也有一个官方的 Firo 桥梁到 BSC。
 
